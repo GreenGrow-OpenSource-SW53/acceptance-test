@@ -1,4 +1,4 @@
-Feature: Visualización de loscursos en la pagina web
+Feature: Visualización de los cursos en la pagina web
 
     Scenario Outline: Como usuario quero visualizar los cursos que se encuentran disponibles en la pagina web.
 
