@@ -1,4 +1,4 @@
-Feature : Visualización de losarticulos en la pagina web
+Feature : Visualización de los articulos en la pagina web
 
     Scenario Outline: Como usuario quero visualizar los articulos de los expertos en la pagina web
 
